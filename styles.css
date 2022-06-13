@@ -60,10 +60,12 @@ footer p {
 .note h1 {
   font-size: 1.1rem;
   padding-bottom: 0.5rem;
+  border-bottom: 1px solid rgb(194, 177, 177);
+  border-bottom-width: thin;
 }
 
 .note p {
-  margin-bottom: 0.5rem;
+  margin: 0.5rem 0;
   font-size: 1.1rem;
 
   white-space: pre-wrap;
